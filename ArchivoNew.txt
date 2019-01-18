@@ -1,10 +1,2 @@
  NEW HOLA MUNDO
-
-<<<<<<< HEAD
 para la rama master 
-=======
-para la rama3
-
->>>>>>> rama3
-
-
